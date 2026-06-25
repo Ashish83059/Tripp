@@ -1,0 +1,7 @@
+.detail-page { max-width: 900px; margin: 0 auto; padding: 2rem 1.5rem; }
+.detail-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem; }
+.back-link { color: var(--sky); font-size: 0.88rem; font-weight: 600; }
+.share-btn { background: var(--navy); color: white; border: none; border-radius: 8px; padding: 9px 18px; font-size: 0.88rem; font-weight: 600; cursor: pointer; transition: all 0.2s; }
+.share-btn.copied { background: var(--green); }
+.share-btn:hover { opacity: 0.85; }
+.not-found { text-align: center; padding: 4rem; color: var(--gray-600); }
